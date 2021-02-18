@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Window 10 数字权利获取工具</title>
+    <url>/2021/01/02/Windows-10-%E6%95%B0%E5%AD%97%E6%9D%83%E5%88%A9%E8%8E%B7%E5%8F%96%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<blockquote>
+<p>还在害怕激活工具篡改主页携带病毒？还在为Win10专业版无法永久激活而苦恼？<br><img src="1.png" alt="1"></p>
+</blockquote>
+<p>KMS激活会显示组织的激活服务，只能激活180天，快要到期时你会看到这个。<br><img src="2.png" alt="2"><br>但是有了国外科技论坛大神发布名为HWIDGEN激活工具，妈妈再也不用担心我Win10不能永久激活啦。</p>
+<h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ul>
+<li><p>1.首先准备一台未激活的装有任何版本Win10系统的计算机。</p>
+</li>
+<li><p>2.下载由远景论坛网友黯然 KING编写的简化脚本包：<a href="https://dl.lancdn.com/landian/software/HWIDGEN/">下载地址</a></p>
+</li>
+<li><p>3.完整解压压缩包后右键点击Activation.CMD文件并选择使用管理员身份运行，然后会提示工具支持的版本。</p>
+<p style="color: red">注意：确保电脑联网，并且Windows Update服务已开启。</p>
+
+</li>
+</ul>
+<p><img src="3.png" alt="3"></p>
+<p><img src="4.png" alt="4"></p>
+<p>接下来有几个选项默认情况下我们直接填写数字1来激活本机系统，输入后脚本自动工作联网获取数字权利。</p>
+<p><img src="5.webp" alt="5"></p>
+<ul>
+<li>4.查看结果：在设置里显示Windows已使用数字许可证激活，若登录了Microsoft账户还会与账号关联。</li>
+</ul>
+<p><img src="6.webp" alt="6"></p>
+<blockquote>
+<p>“win+R”运行：slmgr.vbs -xpr 命令可以看到“计算机已永久激活”的对话框。<br><img src="7.webp" alt="7"></p>
+</blockquote>
+<h2 id="原理介绍"><a href="#原理介绍" class="headerlink" title="原理介绍"></a>原理介绍</h2><p>数字权利即与已系统绑定的激活许可证。默认情况下当Windows 10被激活后会自动生成与硬件ID对应的许可证，该许可证会存储到微软的服务器上。当系统重新安装时自动将硬件ID提交给微软检索对应的许可证，若许可证符合则系统自动激活无需用户操作。</p>
+<p>(本文转载自微信公众号Smart，点击<a href="https://mp.weixin.qq.com/s/fS0iPW9JAHI-PWDJqeFZRg">此处</a>查看原文)</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>激活</tag>
+        <tag>Win10</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>浏览器标签卖萌</title>
     <url>/2021/01/01/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E7%AD%BE%E5%8D%96%E8%90%8C/</url>
     <content><![CDATA[<h1 id="卖萌原理？"><a href="#卖萌原理？" class="headerlink" title="卖萌原理？"></a>卖萌原理？</h1><p>  前段时间我看到大佬<a href="https://diygod.me/">🍭DIYgod的博客</a>浏览器标签卖萌的特效，被萌到了，于是学习了一番</p>
@@ -61,45 +100,6 @@
       <tags>
         <tag>视频</tag>
         <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Window 10 数字权利获取工具</title>
-    <url>/2021/01/02/Windows-10-%E6%95%B0%E5%AD%97%E6%9D%83%E5%88%A9%E8%8E%B7%E5%8F%96%E5%B7%A5%E5%85%B7/</url>
-    <content><![CDATA[<blockquote>
-<p>还在害怕激活工具篡改主页携带病毒？还在为Win10专业版无法永久激活而苦恼？<br><img src="1.png" alt="1"></p>
-</blockquote>
-<p>KMS激活会显示组织的激活服务，只能激活180天，快要到期时你会看到这个。<br><img src="2.png" alt="2"><br>但是有了国外科技论坛大神发布名为HWIDGEN激活工具，妈妈再也不用担心我Win10不能永久激活啦。</p>
-<h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ul>
-<li><p>1.首先准备一台未激活的装有任何版本Win10系统的计算机。</p>
-</li>
-<li><p>2.下载由远景论坛网友黯然 KING编写的简化脚本包：<a href="https://dl.lancdn.com/landian/software/HWIDGEN/">下载地址</a></p>
-</li>
-<li><p>3.完整解压压缩包后右键点击Activation.CMD文件并选择使用管理员身份运行，然后会提示工具支持的版本。</p>
-<p style="color: red">注意：确保电脑联网，并且Windows Update服务已开启。</p>
-
-</li>
-</ul>
-<p><img src="3.png" alt="3"></p>
-<p><img src="4.png" alt="4"></p>
-<p>接下来有几个选项默认情况下我们直接填写数字1来激活本机系统，输入后脚本自动工作联网获取数字权利。</p>
-<p><img src="5.webp" alt="5"></p>
-<ul>
-<li>4.查看结果：在设置里显示Windows已使用数字许可证激活，若登录了Microsoft账户还会与账号关联。</li>
-</ul>
-<p><img src="6.webp" alt="6"></p>
-<blockquote>
-<p>“win+R”运行：slmgr.vbs -xpr 命令可以看到“计算机已永久激活”的对话框。<br><img src="7.webp" alt="7"></p>
-</blockquote>
-<h2 id="原理介绍"><a href="#原理介绍" class="headerlink" title="原理介绍"></a>原理介绍</h2><p>数字权利即与已系统绑定的激活许可证。默认情况下当Windows 10被激活后会自动生成与硬件ID对应的许可证，该许可证会存储到微软的服务器上。当系统重新安装时自动将硬件ID提交给微软检索对应的许可证，若许可证符合则系统自动激活无需用户操作。</p>
-<p>(本文转载自微信公众号Smart，点击<a href="https://mp.weixin.qq.com/s/fS0iPW9JAHI-PWDJqeFZRg">此处</a>查看原文)</p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>激活</tag>
-        <tag>Win10</tag>
       </tags>
   </entry>
 </search>

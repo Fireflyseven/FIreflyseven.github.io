@@ -630,6 +630,7 @@ $(function() {
 					  repo: comment.data('r'),
 					  owner: comment.data('o'),
 					  admin: comment.data('a'),
+                      proxy: comment.data('p'),
 					  id: decodeURI(window.location.pathname),
 					  distractionFreeMode: comment.data('d')
 					})
