@@ -102,4 +102,68 @@
         <tag>音乐</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何让网页嵌入的视频自适应电脑手机屏幕尺寸？</title>
+    <url>/2021/01/03/%E5%A6%82%E4%BD%95%E8%AE%A9%E7%BD%91%E9%A1%B5%E5%B5%8C%E5%85%A5%E7%9A%84%E8%A7%86%E9%A2%91%E8%87%AA%E9%80%82%E5%BA%94%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E5%B0%BA%E5%AF%B8%EF%BC%9F/</url>
+    <content><![CDATA[<style type="text/css">
+  img{
+    text-align: center; margin: 0 auto;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    -moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    -webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);}
+</style>
+
+<p><img src="0.jpg" alt="响应式布局"></p>
+<ul>
+<li>1.当你终于按下了分享按钮，找到了网页嵌入视频的代码：</li>
+</ul>
+<img src="1.png" style="zoom:50%;" />
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>​ 结果它显示一个小视频，没有播放控件，也无法全屏。</p>
+<img src="2.png" style="zoom:50%;" />
+
+<ul>
+<li><p>2.于是添加width和height属性。</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;720&quot;</span> <span class="attr">height</span>=<span class="string">&quot;600&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>在电脑上看正常了，在手机上看是巨大的，视频超出了屏幕范围。</p>
+</li>
+</ul>
+<img src="4.png" style="zoom:30%;" />
+
+<ul>
+<li><p>3.网上说width设置100%可使得视频宽度适应屏幕宽度，跟随放大缩小。可是如何使高度跟随宽度变化呢？</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">height</span>=<span class="string">&quot;100%&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<img src="5.png" style="zoom:50%;" />
+
+<p>如果height设为600，在电脑正常了，而在手机……</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">height</span>=<span class="string">&quot;600&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<img src="6.JPG" style="zoom:30%;" />
+
+<ul>
+<li><p>4.如何才能让视频保持长宽比又跟随屏幕宽度缩放呢？</p>
+<p><img src="7.gif"></p>
+<p>其实只要在外面包裹的容器保持长宽比，然后让视频充满容器就可以啦！这个容器可以是&lt;p&gt;.</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;video&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&amp;high_quality=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>然后全局css添加这几条语句就OK啦！</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.video</span> &#123;</span><br><span class="line">	<span class="attribute">position</span>: relative;</span><br><span class="line">	<span class="attribute">padding-bottom</span>: <span class="number">56.25%</span>;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">0</span>;</span><br><span class="line">	<span class="attribute">overflow</span>: hidden;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.video</span> <span class="selector-tag">iframe</span>,</span><br><span class="line"><span class="selector-class">.video</span> <span class="selector-tag">object</span>,</span><br><span class="line"><span class="selector-class">.video</span> embed &#123;</span><br><span class="line">	<span class="attribute">position</span>: absolute;</span><br><span class="line">	<span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">	<span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">	<span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>html</tag>
+        <tag>css</tag>
+      </tags>
+  </entry>
 </search>
