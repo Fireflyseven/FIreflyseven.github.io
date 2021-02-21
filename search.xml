@@ -1,12 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>音视频测试</title>
+    <url>/2021/01/02/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h1><p><img src="anian.jpeg" alt="阿年"></p>
+<h2 id="哔哩哔哩"><a href="#哔哩哔哩" class="headerlink" title="哔哩哔哩"></a>哔哩哔哩</h2><p class="video">
+<iframe src="//player.bilibili.com/player.html?aid=756413860&bvid=BV1Er4y1K7u8&cid=289273275&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" 
+width="100%"  allowfullscreen="true"> 
+</iframe>
+</p>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&amp;high_quality=1&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span>  <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="腾讯视频"><a href="#腾讯视频" class="headerlink" title="腾讯视频"></a>腾讯视频</h2><p class="video">
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x" 
+width="100%" allowFullScreen="true">
+</iframe>
+</p>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">src</span>=<span class="string">&quot;https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">allowFullScreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="爱奇艺视频"><a href="#爱奇艺视频" class="headerlink" title="爱奇艺视频"></a>爱奇艺视频</h2><p class="video">
+<iframe src="https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b
+&tvId=7111701594068300&accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&appKey=8c634248790d4343bcae1f66129c1010
+&appId=1368&height=100%&width=100%" frameborder="0" 
+allowfullscreen="true" width="100%" >
+</iframe>
+</p>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b</span></span></span><br><span class="line"><span class="tag"><span class="string">&amp;tvId=7111701594068300&amp;accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&amp;appKey=8c634248790d4343bcae1f66129c1010</span></span></span><br><span class="line"><span class="tag"><span class="string">&amp;appId=1368&amp;height=100%&amp;width=100%&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> <span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> &gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="优酷视频"><a href="#优酷视频" class="headerlink" title="优酷视频"></a>优酷视频</h2><p class="video">
+<iframe  width=100% src='https://player.youku.com/embed/XNTA4NjM1NTkwMA==' frameborder=0 allowfullscreen="true">
+</iframe>
+</p>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span>  <span class="attr">width</span>=<span class="string">100%</span> <span class="attr">src</span>=<span class="string">&#x27;https://player.youku.com/embed/XNTA4NjM1NTkwMA==&#x27;</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h2><p class="video">
+<iframe width="100%" 
+src="https://www.youtube.com/embed/t-9YuIg7R1I" frameborder="0" 
+allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe></p>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;https://www.youtube.com/embed/t-9YuIg7R1I&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allow</span>=<span class="string">&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h1 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h1><h2 id="单曲"><a href="#单曲" class="headerlink" title="单曲"></a>单曲</h2><p>艾辰-错位时空</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
+src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66">
+</iframe>
+<div style="height: 450px; width:300px; color: #999999 ;overflow:auto">
+填不满半排观众的电影<br>直到散场时突然亮起灯<br>字幕定格在某某出品和发行<br>我目送 他们行色匆匆<br>像个自不量力的复读生<br>完不成金榜题名的使命<br>命不是猜剪刀石头布的决定<br>那么任性<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>数不完见证许愿的繁星<br>没灵验谁来安慰坏心情<br>十字路口闪烁不停的信号灯<br>有个人 显然心事重重<br>三个字 只能说给自己听<br>仰着头不要让眼泪失控<br>哪里有可以峰回路转的宿命<br>我不想听<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空 成空
+</div>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginwidth</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginheight</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">86</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=0&amp;height=66&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="歌单"><a href="#歌单" class="headerlink" title="歌单"></a>歌单</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=5278558272&auto=0&height=430"></iframe>
+
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginwidth</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginheight</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">450</span> <span class="attr">src</span>=<span class="string">&quot;//music.163.com/outchain/player?type=0&amp;id=5278558272&amp;auto=0&amp;height=430&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>浏览器</tag>
+        <tag>JavaScript</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浏览器标签卖萌</title>
+    <url>/2021/01/01/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E7%AD%BE%E5%8D%96%E8%90%8C/</url>
+    <content><![CDATA[<h1 id="卖萌原理？"><a href="#卖萌原理？" class="headerlink" title="卖萌原理？"></a>卖萌原理？</h1><p>前段时间我看到大佬<a href="https://diygod.me/">🍭DIYgod</a>的博客浏览器标签卖萌的特效，被萌到了，于是学习了一番</p>
+<p> 当点击别的标签页，博客标签显示 ╭(°A° ) ╮ 页面崩溃啦 ~<br> 而再点击博客标签，激活又显示 (ฅ&gt;ω&lt; ฅ) 噫又好了~</p>
+<p><img src="1.png"><br><img src="2.png"></p>
+<p>这是怎么实现的呢？</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> OriginTitle = <span class="built_in">document</span>.title;</span><br><span class="line"> <span class="keyword">var</span> titleTime;</span><br><span class="line"> <span class="built_in">document</span>.addEventListener(<span class="string">&#x27;visibilitychange&#x27;</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">     <span class="keyword">if</span> (<span class="built_in">document</span>.hidden) &#123;</span><br><span class="line">         $(<span class="string">&#x27;[rel=&quot;icon&quot;]&#x27;</span>).attr(<span class="string">&#x27;href&#x27;</span>, <span class="string">&quot;/img/CrashTitile.ico&quot;</span>);</span><br><span class="line">         <span class="built_in">document</span>.title = <span class="string">&#x27;╭(°A°`)╮ 页面崩溃啦 ~&#x27;</span>;</span><br><span class="line">         <span class="built_in">clearTimeout</span>(titleTime);</span><br><span class="line">     &#125;</span><br><span class="line">     <span class="keyword">else</span> &#123;</span><br><span class="line">         $(<span class="string">&#x27;[rel=&quot;icon&quot;]&#x27;</span>).attr(<span class="string">&#x27;href&#x27;</span>, <span class="string">&quot;/favicon.ico&quot;</span>);</span><br><span class="line">         <span class="built_in">document</span>.title = <span class="string">&#x27;(ฅ&gt;ω&lt;*ฅ) 噫又好了~&#x27;</span> + OriginTitle;</span><br><span class="line">         titleTime = <span class="built_in">setTimeout</span>(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">             <span class="built_in">document</span>.title = OriginTitle;</span><br><span class="line">         &#125;, <span class="number">2000</span>);</span><br><span class="line">     &#125;</span><br><span class="line"> &#125;);</span><br></pre></td></tr></table></figure>
+<p>最后设定一个Timeout，2000毫秒后标题恢复正常了。</p>
+<h1 id="如何卖萌？"><a href="#如何卖萌？" class="headerlink" title="如何卖萌？"></a>如何卖萌？</h1><p>至于怎么使用呢，看不同情况而定。<br>一般情况下在要使用该特效的页面引入如下js</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script type=<span class="string">&quot;text/javascript&quot;</span> src=<span class="string">&quot;/js/src/crash_cheat.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+<p>像Hexo驱动下的博客主题包，比如NexT主题，则在next\source\js\src文件夹下创建crash_cheat.js，添加js代码，然后在layout下的_layout.swig文件中，添加引用即可（注：在swig末尾添加）</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>浏览器</tag>
+        <tag>JavaScript</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DPlayer-一个带弹幕的HTML5播放器</title>
-    <url>/2021/01/04/DPlayer-%E4%B8%80%E4%B8%AA%E5%B8%A6%E5%BC%B9%E5%B9%95%E7%9A%84HTML5%E6%92%AD%E6%94%BE%E5%99%A8/</url>
-    <content><![CDATA[<h1 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h1><center>你要悄悄拔尖，然后惊艳所有人……</center>
+    <url>/2021/01/03/DPlayer-%E4%B8%80%E4%B8%AA%E5%B8%A6%E5%BC%B9%E5%B9%95%E7%9A%84HTML5%E6%92%AD%E6%94%BE%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h1><center>你要悄悄拔尖，然后惊艳所有人</center>
 
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://s-gz-2246-blog-video.oss.dogecdn.com/%E4%BD%A0%E8%A6%81%E6%82%84%E6%82%84%E6%8B%94%E5%B0%96%EF%BC%8C%E7%84%B6%E5%90%8E%E6%83%8A%E8%89%B3%E6%89%80%E6%9C%89%E4%BA%BA.mp4","pic":"0.png"},"danmaku":{"id":"9E2E3387B56CDBB4","api":"https://api.menhood.wang/dplayer/","token":"tokendemo","addition":["https://api.menhood.wang/dplayer/v3/bilibili/?cid=267379862"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://s-gz-2246-blog-video.oss.dogecdn.com/%E4%BD%A0%E8%A6%81%E6%82%84%E6%82%84%E6%8B%94%E5%B0%96%EF%BC%8C%E7%84%B6%E5%90%8E%E6%83%8A%E8%89%B3%E6%89%80%E6%9C%89%E4%BA%BA.mp4","pic":"1.jpg"},"danmaku":{"id":"9E2E3387B56CDBB4","api":"https://api.menhood.wang/dplayer/","token":"tokendemo","addition":["https://api.menhood.wang/dplayer/v3/bilibili/?cid=267379862"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
 
 <p><a href="https://www.bilibili.com/video/BV1Hf4y1e72R">视频原地址</a></p>
 <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-tag-dplayer --save</span><br></pre></td></tr></table></figure>
@@ -18,11 +100,11 @@
 <li>token：【unrequired】弹幕后端验证 token</li>
 <li>pic：封面</li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% dplayer </span><br><span class="line">	&quot;url&#x3D;https:&#x2F;&#x2F;demo.mp4&quot;</span><br><span class="line">	&quot;addition&#x3D;https:&#x2F;&#x2F;api.menhood.wang&#x2F;dplayer&#x2F;v3&#x2F;bilibili&#x2F;?cid&#x3D;XXXXXX&quot; </span><br><span class="line">	&quot;api&#x3D;https:&#x2F;&#x2F;api.menhood.wang&#x2F;dplayer&#x2F;&quot;</span><br><span class="line">	&quot;pic&#x3D;img&#x2F;cover.png&quot; </span><br><span class="line">	&quot;id&#x3D;9E2E3387B56CDBB4&quot; </span><br><span class="line">	&quot;loop&#x3D;yes&quot;  </span><br><span class="line">	&quot;autoplay&#x3D;false&quot;</span><br><span class="line">	&quot;theme&#x3D;#FADFA3&quot;</span><br><span class="line">	&quot;token&#x3D;tokendemo&quot;</span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
-<h1 id="了解更多"><a href="#了解更多" class="headerlink" title="了解更多"></a>了解更多</h1><p><a href="http://dplayer.js.org/zh/">DPlayer官网</a><br><a href="https://blog.menhood.wang/player.html">弹幕池API</a><br>插件：<a href="https://github.com/MoePlayer/hexo-tag-dplayer">hexo-tag-dplayer</a><br>视频存储支持：<a href="https://www.upyun.com/">又拍云</a><br>            <a href="https://www.dogecloud.com/">多吉云</a></p>
-<h3 id="🍭-Wow-such-a-lovely-HTML5-danmaku-video-player"><a href="#🍭-Wow-such-a-lovely-HTML5-danmaku-video-player" class="headerlink" title="🍭 Wow, such a lovely HTML5 danmaku video player ~"></a>🍭 Wow, such a lovely HTML5 danmaku video player ~</h3>]]></content>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line">&#123;% dplayer </span><br><span class="line">    <span class="string">&quot;url=https://demo.mp4&quot;</span></span><br><span class="line">    <span class="string">&quot;addition=https://api.menhood.wang/dplayer/v3/bilibili/?cid=XXXXXX&quot;</span> </span><br><span class="line">    <span class="string">&quot;api=https://api.menhood.wang/dplayer/&quot;</span></span><br><span class="line">    <span class="string">&quot;pic=img/cover.png&quot;</span> </span><br><span class="line">    <span class="string">&quot;id=9E2E3387B56CDBB4&quot;</span> </span><br><span class="line">    <span class="string">&quot;loop=yes&quot;</span>  </span><br><span class="line">    <span class="string">&quot;autoplay=false&quot;</span></span><br><span class="line">    <span class="string">&quot;theme=#FADFA3&quot;</span></span><br><span class="line">    <span class="string">&quot;token=tokendemo&quot;</span></span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
+<h1 id="了解更多"><a href="#了解更多" class="headerlink" title="了解更多"></a>了解更多</h1><p><a href="http://dplayer.js.org/zh/">DPlayer官网</a><br><a href="https://blog.menhood.wang/player.html">弹幕池API</a><br>插件：<a href="https://github.com/MoePlayer/hexo-tag-dplayer">hexo-tag-dplayer</a><br>视频存储支持：<a href="https://www.upyun.com/">又拍云</a> <a href="https://www.dogecloud.com/">多吉云</a></p>
+<center><h3><b>🍭 Wow, such a lovely HTML5 danmaku video player ~</b></h3></center>]]></content>
       <categories>
-        <category>工具</category>
+        <category>教程</category>
       </categories>
       <tags>
         <tag>DPlayer</tag>
@@ -30,170 +112,76 @@
       </tags>
   </entry>
   <entry>
-    <title>Window 10 数字权利获取工具</title>
-    <url>/2021/01/02/Windows-10-%E6%95%B0%E5%AD%97%E6%9D%83%E5%88%A9%E8%8E%B7%E5%8F%96%E5%B7%A5%E5%85%B7/</url>
+    <title>Windows 10 数字权利获取工具</title>
+    <url>/2021/01/05/Windows-10-%E6%95%B0%E5%AD%97%E6%9D%83%E5%88%A9%E8%8E%B7%E5%8F%96%E5%B7%A5%E5%85%B7/</url>
     <content><![CDATA[<blockquote>
-<p>还在害怕激活工具篡改主页携带病毒？还在为Win10专业版无法永久激活而苦恼？<br><img src="1.png" alt="1"></p>
+<p>还在害怕激活工具篡改主页携带病毒？还在为Win10专业版无法永久激活而苦恼？<br><img src="1.png"></p>
 </blockquote>
-<p>KMS激活会显示组织的激活服务，只能激活180天，快要到期时你会看到这个。<br><img src="2.png" alt="2"><br>但是有了国外科技论坛大神发布名为HWIDGEN激活工具，妈妈再也不用担心我Win10不能永久激活啦。</p>
-<h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ul>
+<p>KMS激活会显示组织的激活服务，只能激活180天，快要到期时你会看到这个。<br><img src="2.png"><br>但是有了国外科技论坛大神发布名为HWIDGEN激活工具，妈妈再也不用担心我Win10不能永久激活啦。</p>
+<h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><ul>
 <li><p>1.首先准备一台未激活的装有任何版本Win10系统的计算机。</p>
 </li>
-<li><p>2.下载由远景论坛网友黯然 KING编写的简化脚本包：<a href="https://dl.lancdn.com/landian/software/HWIDGEN/">下载地址</a></p>
+<li><p>2.下载由远景论坛网友黯然 KING编写的简化脚本包：下载地址</p>
 </li>
 <li><p>3.完整解压压缩包后右键点击Activation.CMD文件并选择使用管理员身份运行，然后会提示工具支持的版本。</p>
-<p style="color: red">注意：确保电脑联网，并且Windows Update服务已开启。</p>
-
 </li>
 </ul>
-<p><img src="3.png" alt="3"></p>
-<p><img src="4.png" alt="4"></p>
+<p style="color: red">注意：确保电脑联网，并且Windows Update服务已开启。</p>
+
+<p><img src="3.png"></p>
+<p><img src="4.png"></p>
 <p>接下来有几个选项默认情况下我们直接填写数字1来激活本机系统，输入后脚本自动工作联网获取数字权利。</p>
-<p><img src="5.webp" alt="5"></p>
+<p><img src="5.png"></p>
 <ul>
-<li>4.查看结果：在设置里显示Windows已使用数字许可证激活，若登录了Microsoft账户还会与账号关联。</li>
+<li>4.查看结果：在设置里显示Windows已使用数字许可证激活，若登录了Microsoft账户还会与账号关联。<br><img src="6.png"></li>
 </ul>
-<p><img src="6.webp" alt="6"></p>
 <blockquote>
-<p>“win+R”运行：slmgr.vbs -xpr 命令可以看到“计算机已永久激活”的对话框。<br><img src="7.webp" alt="7"></p>
+<p>“win+R”运行：slmgr.vbs -xpr 命令可以看到“计算机已永久激活”的对话框。<br><img src="7.png"></p>
 </blockquote>
-<h2 id="原理介绍"><a href="#原理介绍" class="headerlink" title="原理介绍"></a>原理介绍</h2><p>数字权利即与已系统绑定的激活许可证。默认情况下当Windows 10被激活后会自动生成与硬件ID对应的许可证，该许可证会存储到微软的服务器上。当系统重新安装时自动将硬件ID提交给微软检索对应的许可证，若许可证符合则系统自动激活无需用户操作。</p>
+<h1 id="原理介绍"><a href="#原理介绍" class="headerlink" title="原理介绍"></a>原理介绍</h1><p>数字权利即与已系统绑定的激活许可证。默认情况下当Windows 10被激活后会自动生成与硬件ID对应的许可证，该许可证会存储到微软的服务器上。当系统重新安装时自动将硬件ID提交给微软检索对应的许可证，若许可证符合则系统自动激活无需用户操作。</p>
 <p>(本文转载自微信公众号Smart，点击<a href="https://mp.weixin.qq.com/s/fS0iPW9JAHI-PWDJqeFZRg">此处</a>查看原文)</p>
 ]]></content>
       <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>激活</tag>
-        <tag>Win10</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>音视频测试</title>
-    <url>/2021/01/02/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h1><p><img src="anian.jpeg" alt="阿年"></p>
-<h2 id="哔哩哔哩"><a href="#哔哩哔哩" class="headerlink" title="哔哩哔哩"></a>哔哩哔哩</h2><p class="video">
-<iframe src="//player.bilibili.com/player.html?aid=756413860&bvid=BV1Er4y1K7u8&cid=289273275&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%"  allowfullscreen="true"> </iframe>
-</p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&amp;high_quality=1&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span>  <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="腾讯视频"><a href="#腾讯视频" class="headerlink" title="腾讯视频"></a>腾讯视频</h2><p class="video">
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x" width="100%" allowFullScreen="true"></iframe></p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">src</span>=<span class="string">&quot;https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">allowFullScreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="爱奇艺"><a href="#爱奇艺" class="headerlink" title="爱奇艺"></a>爱奇艺</h2><p class="video">
-<iframe src="https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b&tvId=7111701594068300&accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&appKey=8c634248790d4343bcae1f66129c1010&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" ></iframe></p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b</span></span></span><br><span class="line"><span class="tag"><span class="string">&amp;tvId=7111701594068300&amp;accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&amp;appKey=8c634248790d4343bcae1f66129c1010</span></span></span><br><span class="line"><span class="tag"><span class="string">&amp;appId=1368&amp;height=100%&amp;width=100%&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> <span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> &gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h2><p class="video">
-<iframe width="100%" src="https://www.youtube.com/embed/t-9YuIg7R1I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;https://www.youtube.com/embed/t-9YuIg7R1I&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allow</span>=<span class="string">&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h1 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h1><h2 id="错位时空-艾辰"><a href="#错位时空-艾辰" class="headerlink" title="错位时空-艾辰"></a>错位时空-艾辰</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66"></iframe>
-
-<div style="height: 450px; color: #999999 ;overflow:auto" >
-填不满半排观众的电影<br>直到散场时突然亮起灯<br>字幕定格在某某出品和发行<br>我目送 他们行色匆匆<br>像个自不量力的复读生<br>完不成金榜题名的使命<br>命不是猜剪刀石头布的决定<br>那么任性<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>数不完见证许愿的繁星<br>没灵验谁来安慰坏心情<br>十字路口闪烁不停的信号灯<br>有个人 显然心事重重<br>三个字 只能说给自己听<br>仰着头不要让眼泪失控<br>哪里有可以峰回路转的宿命<br>我不想听<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空 成空
-</div>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginwidth</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginheight</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">86</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=0&amp;height=66&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="歌单测试"><a href="#歌单测试" class="headerlink" title="歌单测试"></a>歌单测试</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2651036663&auto=0&height=430"></iframe>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginwidth</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginheight</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">450</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;//music.163.com/outchain/player?type=0&amp;id=2651036663&amp;auto=0&amp;height=430&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
         <category>教程</category>
       </categories>
       <tags>
-        <tag>视频</tag>
-        <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浏览器标签卖萌</title>
-    <url>/2021/01/01/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E7%AD%BE%E5%8D%96%E8%90%8C/</url>
-    <content><![CDATA[<h1 id="卖萌原理？"><a href="#卖萌原理？" class="headerlink" title="卖萌原理？"></a>卖萌原理？</h1><p>  前段时间我看到大佬<a href="https://diygod.me/">🍭DIYgod的博客</a>浏览器标签卖萌的特效，被萌到了，于是学习了一番</p>
-<p>  当点击别的标签页，博客标签显示 “╭(°A° ) ╮ 页面崩溃啦 ~”</p>
-<p>  而再点击博客标签，激活又显示 “‘(ฅ&gt;ω&lt; ฅ) 噫又好了~”</p>
-<p><img src="1.png" alt="页面崩溃"></p>
-<p><img src="2.png" alt="页面恢复"></p>
-<p>  这是怎么实现的呢？</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> OriginTitle = <span class="built_in">document</span>.title;</span><br><span class="line"> <span class="keyword">var</span> titleTime;</span><br><span class="line"> <span class="built_in">document</span>.addEventListener(<span class="string">&#x27;visibilitychange&#x27;</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">     <span class="keyword">if</span> (<span class="built_in">document</span>.hidden) &#123;</span><br><span class="line">         $(<span class="string">&#x27;[rel=&quot;icon&quot;]&#x27;</span>).attr(<span class="string">&#x27;href&#x27;</span>, <span class="string">&quot;/img/CrashTitile.ico&quot;</span>);</span><br><span class="line">         <span class="built_in">document</span>.title = <span class="string">&#x27;╭(°A°`)╮ 页面崩溃啦 ~&#x27;</span>;</span><br><span class="line">         <span class="built_in">clearTimeout</span>(titleTime);</span><br><span class="line">     &#125;</span><br><span class="line">     <span class="keyword">else</span> &#123;</span><br><span class="line">         $(<span class="string">&#x27;[rel=&quot;icon&quot;]&#x27;</span>).attr(<span class="string">&#x27;href&#x27;</span>, <span class="string">&quot;/favicon.ico&quot;</span>);</span><br><span class="line">         <span class="built_in">document</span>.title = <span class="string">&#x27;(ฅ&gt;ω&lt;*ฅ) 噫又好了~&#x27;</span> + OriginTitle;</span><br><span class="line">         titleTime = <span class="built_in">setTimeout</span>(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">             <span class="built_in">document</span>.title = OriginTitle;</span><br><span class="line">         &#125;, <span class="number">2000</span>);</span><br><span class="line">     &#125;</span><br><span class="line"> &#125;);</span><br></pre></td></tr></table></figure>
-<p>  最后设定一个Timeout，2000毫秒后标题恢复正常了。</p>
-<h1 id="如何卖萌？"><a href="#如何卖萌？" class="headerlink" title="如何卖萌？"></a>如何卖萌？</h1><p>  至于怎么使用呢，看不同情况而定。<br>  一般情况下在要使用该特效的页面引入如下js</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">&lt;script type=<span class="string">&quot;text/javascript&quot;</span> src=<span class="string">&quot;/js/src/crash_cheat.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure>
-<p>  像Hexo驱动下的博客主题包，比如NexT主题，则在next\source\js\src文件夹下创建crash_cheat.js，添加js代码，然后在layout下的_layout.swig文件中，添加引用即可（注：在swig末尾添加）</p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>tags</tag>
-        <tag>标签</tag>
+        <tag>浏览器</tag>
+        <tag>JavaScript</tag>
       </tags>
   </entry>
   <entry>
     <title>如何让网页嵌入的视频自适应电脑手机屏幕尺寸？</title>
-    <url>/2021/01/03/%E5%A6%82%E4%BD%95%E8%AE%A9%E7%BD%91%E9%A1%B5%E5%B5%8C%E5%85%A5%E7%9A%84%E8%A7%86%E9%A2%91%E8%87%AA%E9%80%82%E5%BA%94%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E5%B0%BA%E5%AF%B8%EF%BC%9F/</url>
-    <content><![CDATA[<style type="text/css">
-  img{
-    text-align: center; margin: 0 auto;
-    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
-    -moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
-    -webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);}
-</style>
-
-<p><img src="0.jpg" alt="响应式布局"></p>
+    <url>/2021/01/04/%E5%A6%82%E4%BD%95%E8%AE%A9%E7%BD%91%E9%A1%B5%E5%B5%8C%E5%85%A5%E7%9A%84%E8%A7%86%E9%A2%91%E8%87%AA%E9%80%82%E5%BA%94%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E5%B0%BA%E5%AF%B8%EF%BC%9F/</url>
+    <content><![CDATA[<p><img src="0.jpg" alt="响应式布局"></p>
 <ul>
-<li>1.当你终于按下了分享按钮，找到了网页嵌入视频的代码：</li>
-</ul>
-<img src="1.png" style="zoom:50%;" />
-
+<li>1.当你终于按下了分享按钮，找到了网页嵌入视频的代码：<img src="1.png" style="zoom:50%;" />
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<p> 结果它显示一个小视频，没有播放控件，也无法全屏。</p>
+结果它显示一个小视频，没有播放控件，也无法全屏。
 <img src="2.png" style="zoom:50%;" />
 
-<ul>
-<li><p>2.于是添加width和height属性。</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;720&quot;</span> <span class="attr">height</span>=<span class="string">&quot;600&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<p>在电脑上看正常了，在手机上看是巨大的，视频超出了屏幕范围。</p>
 </li>
 </ul>
-<img src="4.png" style="zoom:30%;" />
-
-<ul>
-<li><p>3.网上说width设置100%可使得视频宽度适应屏幕宽度，跟随放大缩小。可是如何使高度跟随宽度变化呢？</p>
+<p>2.于是添加width和height属性。</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;720&quot;</span> <span class="attr">height</span>=<span class="string">&quot;600&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>在电脑上看正常了，在手机上看是巨大的，视频超出了屏幕范围。<br><img src="3.png" style="zoom:50%;" /></p>
+<p>3.网上说width设置100%可使得视频宽度适应屏幕宽度，跟随放大缩小。可是如何使高度跟随宽度变化呢？</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">height</span>=<span class="string">&quot;100%&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<img src="5.png" style="zoom:50%;" />
+<img src="4.png" style="zoom:50%;" />
 
-<p>如果height设为600，在电脑正常了，而在手机……</p>
+<p>如果height设为600，在电脑正常了，而在手机……<br><img src="5.jpg" style="zoom:50%;" /></p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">height</span>=<span class="string">&quot;600&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<img src="6.JPG" style="zoom:30%;" />
-
-<ul>
-<li><p>4.如何才能让视频保持长宽比又跟随屏幕宽度缩放呢？</p>
-<p><img src="7.gif"></p>
-<p>其实只要在外面包裹的容器保持长宽比，然后让视频充满容器就可以啦！这个容器可以是&lt;p&gt;.</p>
+<p>4.如何才能让视频保持长宽比又跟随屏幕宽度缩放呢？</p>
+<p><img src="6.gif"></p>
+<p>其实只要在外面包裹的容器保持长宽比，然后让视频充满容器就可以啦！这个容器可以是/<p/>.</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">&quot;video&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&amp;high_quality=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <p>然后全局css添加这几条语句就OK啦！</p>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.video</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: relative;</span><br><span class="line">  <span class="attribute">padding-bottom</span>: <span class="number">56.25%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">overflow</span>: hidden;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.video</span> <span class="selector-tag">iframe</span>,</span><br><span class="line"><span class="selector-class">.video</span> <span class="selector-tag">object</span>,</span><br><span class="line"><span class="selector-class">.video</span> embed &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-</li>
-</ul>
-</li>
-</ul>
-]]></content>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.video</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: relative;</span><br><span class="line">  <span class="attribute">padding-bottom</span>: <span class="number">56.25%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">overflow</span>: hidden;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.video</span> <span class="selector-tag">iframe</span>,</span><br><span class="line"><span class="selector-class">.video</span> <span class="selector-tag">object</span>,</span><br><span class="line"><span class="selector-class">.video</span> embed &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">top</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>教程</category>
       </categories>
       <tags>
-        <tag>html</tag>
-        <tag>css</tag>
+        <tag>浏览器</tag>
+        <tag>JavaScript</tag>
       </tags>
   </entry>
 </search>
