@@ -44,10 +44,31 @@
             <div class="main">
                 <div class="content">
                 
-                        <h1>这里是懒得写自我介绍的自我介绍页面</h1>
-<p style="color: grey">想了解我？那就加我微信吧</p>
-<img src="/img/wechat.jpg" style="zoom:50%;" />
+                        <script>
+function displayPlayer() {
+    $.getJSON("https://api.uomg.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C&format=json",function(result){
+      $("#demo").html('<h3><b>🎵'+result.data.artistsname+'-'+result.data.name+'</b></h3><iframe src="'+result.data.url+'"></iframe><img style="zoom:40%;" src="'+result.data.picurl+'"/>')
+    });
+}
+</script>
 
+<center>
+<h3>这里是懒得写自我介绍的自我介绍页面</h3>
+
+<p><button style="
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;" onclick="displayPlayer()">刷新后，点击这里有惊喜</button></p>
+<div id="demo" style="width: 100%; height:100%"></div>
+
+<h3 style="color: grey">想了解我？那就加我微信吧</h3>
+<img src="/img/wechat.jpg" style="zoom:50%;" />
+</center>
 
                 
                 </div>
