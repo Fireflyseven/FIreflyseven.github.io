@@ -47,14 +47,10 @@
                         <script>
 function displayPlayer() {
     $.getJSON("https://api.uomg.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C&format=json",function(result){
-      $("#song").html('<h3><b>🎵'+result.data.artistsname+'-'+result.data.name+'</b></h3><iframe src="'+result.data.url+'"></iframe><img width="280px" height="280px" src="'+result.data.picurl+'"/>')
+      $("#song").html('<h3><b>🎵'+result.data.artistsname+'-'+result.data.name+'</b></h3><iframe src=https"'+result.data.url.substr(5)+'"></iframe><img width="280px" height="280px" src="'+result.data.picurl+'"/>')
       var url=""+result.data.url;
       var a=url.indexOf("=");
       var sid=url.substr(a+1);
-      const lycurl = "http://music.163.com/api/song/lyric?os=pc&id="+sid+"&lv=1&kv=-1&tv=1";
-        fetch(lycurl).then(function() {
-            $("#lyric").html("<html>"+result.lyc.lyric+"</html>");
-        });
     });
     
 }
@@ -73,7 +69,6 @@ function displayPlayer() {
     display: inline-block;
     font-size: 16px;" onclick="displayPlayer()">刷新后，点击这里有惊喜</button></p>
 <div id="song" style="width: 100%; height:100%"></div>
-<div id="lyric" style="width: 300px; height:400px"></div>
 
 <h3 style="color: grey">想了解我？那就加我微信吧</h3>
 <img src="/img/wechat.jpg" style="zoom:50%;" />
