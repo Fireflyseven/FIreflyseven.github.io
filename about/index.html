@@ -53,15 +53,18 @@
             <div class="main">
                 <div class="content">
                 
-                        <script>
+                        <!-- require APlayer -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<!-- require MetingJS -->
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+<script>
 function displayPlayer() {
     $.getJSON("https://api.uomg.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C&format=json",function(result){
-      var a=result.data.url.charAt("=");
-      $("#song").html('<meting-js server="netease" type="song" id="'+result.data.url.substr(a)+'"> </meting-js>');
+      var a=result.data.url.indexOf("=");
+      alert(result.data.url.substr(a+1));
+      $("#song").html('<meting-js server="netease" type="song" autoplay="true" id="'+result.data.url.substr(a+1)+'"> </meting-js>');
     });
-    $("div").css("background-color","black")
-    $("center").css("color","#aaa")
-    $("#top").css("border","none")
 }
 </script>
 
