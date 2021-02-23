@@ -62,7 +62,6 @@
 function displayPlayer() {
     $.getJSON("https://api.uomg.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C&format=json",function(result){
       var a=result.data.url.indexOf("=");
-      alert(result.data.url.substr(a+1));
       $("#song").html('<meting-js server="netease" type="song" autoplay="true" id="'+result.data.url.substr(a+1)+'"> </meting-js>');
     });
 }
