@@ -1,132 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>音视频测试</title>
-    <url>/2021/01/02/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h1><p><img src="anian.jpeg" alt="阿年"></p>
-<h2 id="哔哩哔哩"><a href="#哔哩哔哩" class="headerlink" title="哔哩哔哩"></a>哔哩哔哩</h2><p class="video">
-<iframe src="//player.bilibili.com/player.html?aid=756413860&bvid=BV1Er4y1K7u8&cid=289273275&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" 
-width="100%"  allowfullscreen="true"> 
-</iframe>
-</p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&amp;high_quality=1&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span>  <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="腾讯视频"><a href="#腾讯视频" class="headerlink" title="腾讯视频"></a>腾讯视频</h2><p class="video">
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x" 
-width="100%" allowFullScreen="true">
-</iframe>
-</p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">src</span>=<span class="string">&quot;https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> <span class="attr">allowFullScreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="爱奇艺视频"><a href="#爱奇艺视频" class="headerlink" title="爱奇艺视频"></a>爱奇艺视频</h2><p class="video">
-<iframe src="https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b
-&tvId=7111701594068300&accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&appKey=8c634248790d4343bcae1f66129c1010
-&appId=1368&height=100%&width=100%" frameborder="0" 
-allowfullscreen="true" width="100%" >
-</iframe>
-</p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b</span></span></span><br><span class="line"><span class="tag"><span class="string">&amp;tvId=7111701594068300&amp;accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&amp;appKey=8c634248790d4343bcae1f66129c1010</span></span></span><br><span class="line"><span class="tag"><span class="string">&amp;appId=1368&amp;height=100%&amp;width=100%&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> <span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> &gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="优酷视频"><a href="#优酷视频" class="headerlink" title="优酷视频"></a>优酷视频</h2><p class="video">
-<iframe  width=100% src='https://player.youku.com/embed/XNTA4NjM1NTkwMA==' frameborder=0 allowfullscreen="true">
-</iframe>
-</p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span>  <span class="attr">width</span>=<span class="string">100%</span> <span class="attr">src</span>=<span class="string">&#x27;https://player.youku.com/embed/XNTA4NjM1NTkwMA==&#x27;</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h2><p class="video">
-<iframe width="100%" 
-src="https://www.youtube.com/embed/t-9YuIg7R1I" frameborder="0" 
-allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe></p>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">&quot;100%&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;https://www.youtube.com/embed/t-9YuIg7R1I&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allow</span>=<span class="string">&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h1 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h1><h2 id="单曲"><a href="#单曲" class="headerlink" title="单曲"></a>单曲</h2><p>艾辰-错位时空</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
-src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66">
-</iframe>
-<div style="height: 450px; width:300px; color: #999999 ;overflow:auto">
-填不满半排观众的电影<br>直到散场时突然亮起灯<br>字幕定格在某某出品和发行<br>我目送 他们行色匆匆<br>像个自不量力的复读生<br>完不成金榜题名的使命<br>命不是猜剪刀石头布的决定<br>那么任性<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>数不完见证许愿的繁星<br>没灵验谁来安慰坏心情<br>十字路口闪烁不停的信号灯<br>有个人 显然心事重重<br>三个字 只能说给自己听<br>仰着头不要让眼泪失控<br>哪里有可以峰回路转的宿命<br>我不想听<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空 成空
-</div>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginwidth</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginheight</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">86</span> </span></span><br><span class="line"><span class="tag"><span class="attr">src</span>=<span class="string">&quot;//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=0&amp;height=66&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="歌单"><a href="#歌单" class="headerlink" title="歌单"></a>歌单</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=5278558272&auto=0&height=430"></iframe>
-
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginwidth</span>=<span class="string">&quot;0&quot;</span> <span class="attr">marginheight</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">450</span> <span class="attr">src</span>=<span class="string">&quot;//music.163.com/outchain/player?type=0&amp;id=5278558272&amp;auto=0&amp;height=430&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>浏览器</tag>
-        <tag>JavaScript</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浏览器标签卖萌</title>
-    <url>/2021/01/01/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E7%AD%BE%E5%8D%96%E8%90%8C/</url>
-    <content><![CDATA[<h1 id="卖萌原理？"><a href="#卖萌原理？" class="headerlink" title="卖萌原理？"></a>卖萌原理？</h1><p>前段时间我看到大佬<a href="https://diygod.me/">🍭DIYgod</a>的博客浏览器标签卖萌的特效，被萌到了，于是学习了一番</p>
-<p> 当点击别的标签页，博客标签显示 ╭(°A° ) ╮ 页面崩溃啦 ~<br> 而再点击博客标签，激活又显示 (ฅ&gt;ω&lt; ฅ) 噫又好了~</p>
-<p><img src="1.png"><br><img src="2.png"></p>
-<p>这是怎么实现的呢？</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> OriginTitle = <span class="built_in">document</span>.title;</span><br><span class="line"> <span class="keyword">var</span> titleTime;</span><br><span class="line"> <span class="built_in">document</span>.addEventListener(<span class="string">&#x27;visibilitychange&#x27;</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">     <span class="keyword">if</span> (<span class="built_in">document</span>.hidden) &#123;</span><br><span class="line">         $(<span class="string">&#x27;[rel=&quot;icon&quot;]&#x27;</span>).attr(<span class="string">&#x27;href&#x27;</span>, <span class="string">&quot;/img/CrashTitile.ico&quot;</span>);</span><br><span class="line">         <span class="built_in">document</span>.title = <span class="string">&#x27;╭(°A°`)╮ 页面崩溃啦 ~&#x27;</span>;</span><br><span class="line">         <span class="built_in">clearTimeout</span>(titleTime);</span><br><span class="line">     &#125;</span><br><span class="line">     <span class="keyword">else</span> &#123;</span><br><span class="line">         $(<span class="string">&#x27;[rel=&quot;icon&quot;]&#x27;</span>).attr(<span class="string">&#x27;href&#x27;</span>, <span class="string">&quot;/favicon.ico&quot;</span>);</span><br><span class="line">         <span class="built_in">document</span>.title = <span class="string">&#x27;(ฅ&gt;ω&lt;*ฅ) 噫又好了~&#x27;</span> + OriginTitle;</span><br><span class="line">         titleTime = <span class="built_in">setTimeout</span>(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">             <span class="built_in">document</span>.title = OriginTitle;</span><br><span class="line">         &#125;, <span class="number">2000</span>);</span><br><span class="line">     &#125;</span><br><span class="line"> &#125;);</span><br></pre></td></tr></table></figure>
-<p>最后设定一个Timeout，2000毫秒后标题恢复正常了。</p>
-<h1 id="如何卖萌？"><a href="#如何卖萌？" class="headerlink" title="如何卖萌？"></a>如何卖萌？</h1><p>至于怎么使用呢，看不同情况而定。<br>一般情况下在要使用该特效的页面引入如下js</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">&lt;script type=<span class="string">&quot;text/javascript&quot;</span> src=<span class="string">&quot;/js/src/crash_cheat.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure>
-<p>像Hexo驱动下的博客主题包，比如NexT主题，则在next\source\js\src文件夹下创建crash_cheat.js，添加js代码，然后在layout下的_layout.swig文件中，添加引用即可（注：在swig末尾添加）</p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>浏览器</tag>
-        <tag>JavaScript</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DPlayer-一个带弹幕的HTML5播放器</title>
-    <url>/2021/01/03/DPlayer-%E4%B8%80%E4%B8%AA%E5%B8%A6%E5%BC%B9%E5%B9%95%E7%9A%84HTML5%E6%92%AD%E6%94%BE%E5%99%A8/</url>
-    <content><![CDATA[<script src="/assert/js/DPlayer.min.js"></script>
-
-<h1 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h1><center>你要悄悄拔尖，然后惊艳所有人</center>
-
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://s-gz-2246-blog-video.oss.dogecdn.com/%E4%BD%A0%E8%A6%81%E6%82%84%E6%82%84%E6%8B%94%E5%B0%96%EF%BC%8C%E7%84%B6%E5%90%8E%E6%83%8A%E8%89%B3%E6%89%80%E6%9C%89%E4%BA%BA.mp4","pic":"1.jpg"},"danmaku":{"id":"9E2E3387B56CDBB4","api":"https://api.menhood.wang/dplayer/","token":"tokendemo","addition":["https://api.menhood.wang/dplayer/v3/bilibili/?cid=267379862"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<p><a href="https://www.bilibili.com/video/BV1Hf4y1e72R">视频原地址</a></p>
-<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><pre class="line-numbers language-none"><code class="language-none">npm install hexo-tag-dplayer --save<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><ul>
-<li>url:视频url</li>
-<li>addition：额外外挂弹幕</li>
-<li>api：【required】弹幕api，默认API<a href="https://api.prprpr.me/dplayer/">https://api.prprpr.me/dplayer/</a> 已挂，<br>调用第三方API<a href="https://api.menhood.wang/dplayer">https://api.menhood.wang/dplayer</a></li>
-<li>id：【required】弹幕池id，必须唯一</li>
-<li>token：【unrequired】弹幕后端验证 token</li>
-<li>pic：封面</li>
-</ul>
-<pre class="line-numbers language-php" data-language="php"><code class="language-php"><span class="token punctuation">&#123;</span><span class="token operator">%</span> dplayer 
-    <span class="token string double-quoted-string">"url=https://demo.mp4"</span>
-    <span class="token string double-quoted-string">"addition=https://api.menhood.wang/dplayer/v3/bilibili/?cid=XXXXXX"</span> 
-    <span class="token string double-quoted-string">"api=https://api.menhood.wang/dplayer/"</span>
-    <span class="token string double-quoted-string">"pic=img/cover.png"</span> 
-    <span class="token string double-quoted-string">"id=9E2E3387B56CDBB4"</span> 
-    <span class="token string double-quoted-string">"loop=yes"</span>  
-    <span class="token string double-quoted-string">"autoplay=false"</span>
-    <span class="token string double-quoted-string">"theme=#FADFA3"</span>
-    <span class="token string double-quoted-string">"token=tokendemo"</span>
-<span class="token operator">%</span><span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<h1 id="了解更多"><a href="#了解更多" class="headerlink" title="了解更多"></a>了解更多</h1><p><a href="http://dplayer.js.org/zh/">DPlayer官网</a><br><a href="https://blog.menhood.wang/player.html">弹幕池API</a><br>插件：<a href="https://github.com/MoePlayer/hexo-tag-dplayer">hexo-tag-dplayer</a><br>视频存储支持：<a href="https://www.upyun.com/">又拍云</a> <a href="https://www.dogecloud.com/">多吉云</a></p>
-<center><h3><b>🍭 Wow, such a lovely HTML5 danmaku video player ~</b></h3></center>]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>DPlayer</tag>
-        <tag>播放器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Windows 10 数字权利获取工具</title>
     <url>/2021/01/05/Windows-10-%E6%95%B0%E5%AD%97%E6%9D%83%E5%88%A9%E8%8E%B7%E5%8F%96%E5%B7%A5%E5%85%B7/</url>
-    <content><![CDATA[<blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
 <p>还在害怕激活工具篡改主页携带病毒？还在为Win10专业版无法永久激活而苦恼？<br><img src="1.png"></p>
 </blockquote>
 <p>KMS激活会显示组织的激活服务，只能激活180天，快要到期时你会看到这个。<br><img src="2.png"><br>但是有了国外科技论坛大神发布名为HWIDGEN激活工具，妈妈再也不用担心我Win10不能永久激活啦。</p>
@@ -164,7 +41,7 @@ src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66">
   <entry>
     <title>如何让网页嵌入的视频自适应电脑手机屏幕尺寸？</title>
     <url>/2021/01/04/%E5%A6%82%E4%BD%95%E8%AE%A9%E7%BD%91%E9%A1%B5%E5%B5%8C%E5%85%A5%E7%9A%84%E8%A7%86%E9%A2%91%E8%87%AA%E9%80%82%E5%BA%94%E7%94%B5%E8%84%91%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E5%B0%BA%E5%AF%B8%EF%BC%9F/</url>
-    <content><![CDATA[<p><img src="0.jpg" alt="响应式布局"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="0.jpg" alt="响应式布局"></p>
 <ul>
 <li>1.当你终于按下了分享按钮，找到了网页嵌入视频的代码：<img src="1.png" style="zoom:50%;" />
 <pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1<span class="token punctuation">"</span></span> <span class="token attr-name">scrolling</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>no<span class="token punctuation">"</span></span> <span class="token attr-name">border</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>no<span class="token punctuation">"</span></span> <span class="token attr-name">framespacing</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">allowfullscreen</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>true<span class="token punctuation">"</span></span><span class="token punctuation">></span></span> <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
@@ -207,6 +84,159 @@ src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66">
   <span class="token property">width</span><span class="token punctuation">:</span> 100%<span class="token punctuation">;</span>
   <span class="token property">height</span><span class="token punctuation">:</span> 100%<span class="token punctuation">;</span>
 <span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>浏览器</tag>
+        <tag>JavaScript</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>音视频测试</title>
+    <url>/2021/01/02/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h1><p><img src="anian.jpeg" alt="阿年"></p>
+<h2 id="哔哩哔哩"><a href="#哔哩哔哩" class="headerlink" title="哔哩哔哩"></a>哔哩哔哩</h2><p class="video">
+<iframe src="//player.bilibili.com/player.html?aid=756413860&bvid=BV1Er4y1K7u8&cid=289273275&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" 
+width="100%"  allowfullscreen="true"> 
+</iframe>
+</p>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>//player.bilibili.com/player.html?aid=756413860&amp;bvid=BV1Er4y1K7u8&amp;cid=289273275&amp;page=1&amp;high_quality=1<span class="token punctuation">"</span></span> 
+<span class="token attr-name">scrolling</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>no<span class="token punctuation">"</span></span> <span class="token attr-name">border</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>no<span class="token punctuation">"</span></span> <span class="token attr-name">framespacing</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> 
+<span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100%<span class="token punctuation">"</span></span>  <span class="token attr-name">allowfullscreen</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>true<span class="token punctuation">"</span></span><span class="token punctuation">></span></span> 
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+<h2 id="腾讯视频"><a href="#腾讯视频" class="headerlink" title="腾讯视频"></a>腾讯视频</h2><p class="video">
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x" 
+width="100%" allowFullScreen="true">
+</iframe>
+</p>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://v.qq.com/txp/iframe/player.html?vid=k0035cfup2x<span class="token punctuation">"</span></span> 
+<span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100%<span class="token punctuation">"</span></span> <span class="token attr-name">allowFullScreen</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>true<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+<h2 id="爱奇艺视频"><a href="#爱奇艺视频" class="headerlink" title="爱奇艺视频"></a>爱奇艺视频</h2><p class="video">
+<iframe src="https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b
+&tvId=7111701594068300&accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&appKey=8c634248790d4343bcae1f66129c1010
+&appId=1368&height=100%&width=100%" frameborder="0" 
+allowfullscreen="true" width="100%" >
+</iframe>
+</p>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4df76bdc846397a0597a5fb73288ab0b
+&amp;tvId=7111701594068300&amp;accessToken=2.ef9c39d6c7f1d5b44768e38e5243157d&amp;appKey=8c634248790d4343bcae1f66129c1010
+&amp;appId=1368&amp;height=100%&amp;width=100%<span class="token punctuation">"</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> 
+<span class="token attr-name">allowfullscreen</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>true<span class="token punctuation">"</span></span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100%<span class="token punctuation">"</span></span> <span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h2 id="优酷视频"><a href="#优酷视频" class="headerlink" title="优酷视频"></a>优酷视频</h2><p class="video">
+<iframe  width=100% src='https://player.youku.com/embed/XNTA4NjM1NTkwMA==' frameborder=0 allowfullscreen="true">
+</iframe>
+</p>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span>  <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span>100%</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">'</span>https://player.youku.com/embed/XNTA4NjM1NTkwMA==<span class="token punctuation">'</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span>0</span> <span class="token attr-name">allowfullscreen</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>true<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+<h2 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h2><p class="video">
+<iframe width="100%" 
+src="https://www.youtube.com/embed/t-9YuIg7R1I" frameborder="0" 
+allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe></p>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100%<span class="token punctuation">"</span></span> 
+<span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://www.youtube.com/embed/t-9YuIg7R1I<span class="token punctuation">"</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> 
+<span class="token attr-name">allow</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="token punctuation">"</span></span> 
+<span class="token attr-name">allowfullscreen</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+<h1 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h1><h2 id="单曲"><a href="#单曲" class="headerlink" title="单曲"></a>单曲</h2><p>艾辰-错位时空</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
+src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66">
+</iframe>
+<div style="height: 450px; width:300px; color: #999999 ;overflow:auto">
+填不满半排观众的电影<br>直到散场时突然亮起灯<br>字幕定格在某某出品和发行<br>我目送 他们行色匆匆<br>像个自不量力的复读生<br>完不成金榜题名的使命<br>命不是猜剪刀石头布的决定<br>那么任性<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>数不完见证许愿的繁星<br>没灵验谁来安慰坏心情<br>十字路口闪烁不停的信号灯<br>有个人 显然心事重重<br>三个字 只能说给自己听<br>仰着头不要让眼泪失控<br>哪里有可以峰回路转的宿命<br>我不想听<br>我吹过你吹过的晚风<br>那我们算不算 相拥<br>可如梦初醒般的两手空空<br>心也空<br>我吹过你吹过的晚风<br>是否看过同样 风景<br>像扰乱时差留在错位时空<br>终是空 是空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空<br>我吹过你吹过的晚风<br>空气里弥漫着 心痛<br>可我们 最后 在这错位时空<br>终成空 成空
+</div>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>no<span class="token punctuation">"</span></span> <span class="token attr-name">border</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">marginwidth</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">marginheight</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span>330</span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span>86</span> 
+<span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=0&amp;height=66<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+<h2 id="歌单"><a href="#歌单" class="headerlink" title="歌单"></a>歌单</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=5278558272&auto=0&height=430"></iframe>
+
+<pre class="line-numbers language-html" data-language="html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>no<span class="token punctuation">"</span></span> <span class="token attr-name">border</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">marginwidth</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">marginheight</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span>330</span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span>450</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>//music.163.com/outchain/player?type=0&amp;id=5278558272&amp;auto=0&amp;height=430<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>浏览器</tag>
+        <tag>JavaScript</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DPlayer-一个带弹幕的HTML5播放器</title>
+    <url>/2021/01/03/DPlayer-%E4%B8%80%E4%B8%AA%E5%B8%A6%E5%BC%B9%E5%B9%95%E7%9A%84HTML5%E6%92%AD%E6%94%BE%E5%99%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script src="/assert/js/DPlayer.min.js"></script>
+
+<h1 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h1><center>你要悄悄拔尖，然后惊艳所有人</center>
+
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://s-gz-2246-blog-video.oss.dogecdn.com/%E4%BD%A0%E8%A6%81%E6%82%84%E6%82%84%E6%8B%94%E5%B0%96%EF%BC%8C%E7%84%B6%E5%90%8E%E6%83%8A%E8%89%B3%E6%89%80%E6%9C%89%E4%BA%BA.mp4","pic":"1.jpg"},"danmaku":{"id":"9E2E3387B56CDBB4","api":"https://api.menhood.wang/dplayer/","token":"tokendemo","addition":["https://api.menhood.wang/dplayer/v3/bilibili/?cid=267379862"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+<p><a href="https://www.bilibili.com/video/BV1Hf4y1e72R">视频原地址</a></p>
+<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><pre class="line-numbers language-none"><code class="language-none">npm install hexo-tag-dplayer --save<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><ul>
+<li>url:视频url</li>
+<li>addition：额外外挂弹幕</li>
+<li>api：【required】弹幕api，默认API<a href="https://api.prprpr.me/dplayer/">https://api.prprpr.me/dplayer/</a> 已挂，<br>调用第三方API<a href="https://api.menhood.wang/dplayer">https://api.menhood.wang/dplayer</a></li>
+<li>id：【required】弹幕池id，必须唯一</li>
+<li>token：【unrequired】弹幕后端验证 token</li>
+<li>pic：封面</li>
+</ul>
+<pre class="line-numbers language-php" data-language="php"><code class="language-php"><span class="token punctuation">&#123;</span><span class="token operator">%</span> dplayer 
+    <span class="token string double-quoted-string">"url=https://demo.mp4"</span>
+    <span class="token string double-quoted-string">"addition=https://api.menhood.wang/dplayer/v3/bilibili/?cid=XXXXXX"</span> 
+    <span class="token string double-quoted-string">"api=https://api.menhood.wang/dplayer/"</span>
+    <span class="token string double-quoted-string">"pic=img/cover.png"</span> 
+    <span class="token string double-quoted-string">"id=9E2E3387B56CDBB4"</span> 
+    <span class="token string double-quoted-string">"loop=yes"</span>  
+    <span class="token string double-quoted-string">"autoplay=false"</span>
+    <span class="token string double-quoted-string">"theme=#FADFA3"</span>
+    <span class="token string double-quoted-string">"token=tokendemo"</span>
+<span class="token operator">%</span><span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h1 id="了解更多"><a href="#了解更多" class="headerlink" title="了解更多"></a>了解更多</h1><p><a href="http://dplayer.js.org/zh/">DPlayer官网</a><br><a href="https://blog.menhood.wang/player.html">弹幕池API</a><br>插件：<a href="https://github.com/MoePlayer/hexo-tag-dplayer">hexo-tag-dplayer</a><br>视频存储支持：<a href="https://www.upyun.com/">又拍云</a> <a href="https://www.dogecloud.com/">多吉云</a></p>
+<center><h3><b>🍭 Wow, such a lovely HTML5 danmaku video player ~</b></h3></center>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>播放器</tag>
+        <tag>DPlayer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浏览器标签卖萌</title>
+    <url>/2021/01/01/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E7%AD%BE%E5%8D%96%E8%90%8C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="卖萌原理？"><a href="#卖萌原理？" class="headerlink" title="卖萌原理？"></a>卖萌原理？</h1><p>前段时间我看到大佬<a href="https://diygod.me/">🍭DIYgod</a>的博客浏览器标签卖萌的特效，被萌到了，于是学习了一番</p>
+<p> 当点击别的标签页，博客标签显示 ╭(°A° ) ╮ 页面崩溃啦 ~<br> 而再点击博客标签，激活又显示 (ฅ&gt;ω&lt; ฅ) 噫又好了~</p>
+<p><img src="1.png"><br><img src="2.png"></p>
+<p>这是怎么实现的呢？</p>
+<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">var</span> OriginTitle <span class="token operator">=</span> document<span class="token punctuation">.</span>title<span class="token punctuation">;</span>
+ <span class="token keyword">var</span> titleTime<span class="token punctuation">;</span>
+ document<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'visibilitychange'</span><span class="token punctuation">,</span> <span class="token keyword">function</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
+     <span class="token keyword">if</span> <span class="token punctuation">(</span>document<span class="token punctuation">.</span>hidden<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
+         <span class="token function">$</span><span class="token punctuation">(</span><span class="token string">'[rel="icon"]'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">attr</span><span class="token punctuation">(</span><span class="token string">'href'</span><span class="token punctuation">,</span> <span class="token string">"/img/CrashTitile.ico"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+         document<span class="token punctuation">.</span>title <span class="token operator">=</span> <span class="token string">'╭(°A°`)╮ 页面崩溃啦 ~'</span><span class="token punctuation">;</span>
+         <span class="token function">clearTimeout</span><span class="token punctuation">(</span>titleTime<span class="token punctuation">)</span><span class="token punctuation">;</span>
+     <span class="token punctuation">&#125;</span>
+     <span class="token keyword">else</span> <span class="token punctuation">&#123;</span>
+         <span class="token function">$</span><span class="token punctuation">(</span><span class="token string">'[rel="icon"]'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">attr</span><span class="token punctuation">(</span><span class="token string">'href'</span><span class="token punctuation">,</span> <span class="token string">"/favicon.ico"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+         document<span class="token punctuation">.</span>title <span class="token operator">=</span> <span class="token string">'(ฅ>ω&lt;*ฅ) 噫又好了~'</span> <span class="token operator">+</span> OriginTitle<span class="token punctuation">;</span>
+         titleTime <span class="token operator">=</span> <span class="token function">setTimeout</span><span class="token punctuation">(</span><span class="token keyword">function</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span>
+             document<span class="token punctuation">.</span>title <span class="token operator">=</span> OriginTitle<span class="token punctuation">;</span>
+         <span class="token punctuation">&#125;</span><span class="token punctuation">,</span> <span class="token number">2000</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+     <span class="token punctuation">&#125;</span>
+ <span class="token punctuation">&#125;</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<p>最后设定一个Timeout，2000毫秒后标题恢复正常了。</p>
+<h1 id="如何卖萌？"><a href="#如何卖萌？" class="headerlink" title="如何卖萌？"></a>如何卖萌？</h1><p>至于怎么使用呢，看不同情况而定。<br>一般情况下在要使用该特效的页面引入如下js</p>
+<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token operator">&lt;</span>script type<span class="token operator">=</span><span class="token string">"text/javascript"</span> src<span class="token operator">=</span><span class="token string">"/js/src/crash_cheat.js"</span><span class="token operator">></span><span class="token operator">&lt;</span><span class="token operator">/</span>script<span class="token operator">></span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>像Hexo驱动下的博客主题包，比如NexT主题，则在next\source\js\src文件夹下创建crash_cheat.js，添加js代码，然后在layout下的_layout.swig文件中，添加引用即可（注：在swig末尾添加）</p>
+]]></content>
       <categories>
         <category>教程</category>
       </categories>
